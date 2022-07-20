@@ -1,0 +1,4 @@
+# 项目排除路径
+/spark-core/target/
+/spark-sql/target/
+/spark-streaming/target/
